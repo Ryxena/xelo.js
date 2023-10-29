@@ -1,0 +1,19 @@
+{
+  "name": "xelojs",
+  "version": "1.0.0",
+  "description": "Sorting Library yeah",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Ryxena",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
